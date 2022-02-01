@@ -1,0 +1,2 @@
+SELECT table_name,constraint_name,constraint_type
+FROM user_constraints;

@@ -1,0 +1,16 @@
+drop table CollaborationArtiste;
+drop table CollaborationGroupe;
+drop table PisteOeuvre;
+drop table Morceau;
+drop table OeuvreAppartientAuGenre;
+drop table GroupeAppartientAuGenre;
+drop table ArtisteAppartientAuGenre;
+drop table NominationGroupe;
+drop table NominationArtiste;
+drop table NominationOeuvre;
+drop table Oeuvre;
+drop table Prix;
+drop table Genre;
+drop table MembreduGroupe;
+drop table Groupe;
+drop table Artiste;
